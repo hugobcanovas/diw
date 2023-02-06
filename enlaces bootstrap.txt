@@ -1,0 +1,23 @@
+ checkout
+ https://getbootstrap.com/docs/5.3/examples/checkout/
+
+ navbars
+ https://getbootstrap.com/docs/5.3/examples/navbars/
+
+ static navbar
+ https://getbootstrap.com/docs/5.3/examples/navbar-static/
+
+ headers
+ https://getbootstrap.com/docs/5.3/examples/headers/
+
+ sidebars
+ https://getbootstrap.com/docs/5.3/examples/sidebars/
+
+ footers
+ https://getbootstrap.com/docs/5.3/examples/footers/
+
+ dropdowns
+ https://getbootstrap.com/docs/5.3/examples/dropdowns/
+
+ album
+ https://getbootstrap.com/docs/5.3/examples/album/

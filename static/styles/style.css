@@ -1,0 +1,61 @@
+.boton-verde:hover {
+    background-color: #208854;
+    color: white;
+    border-color: black;
+}
+.boton-verde {
+    border-color: black;
+}
+
+.boton-verde-importante:hover {
+    background-color: #208854;
+    border-color: #208854;
+    color: white;
+}
+.boton-verde-importante {
+    background-color: #208854;
+    border-color: #208854;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.centrado {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+}
+
+.imagen {
+    width: 100%;
+    height: 500;
+    object-fit: cover;
+    object-position: 50% 50%;
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+}
+
+.logo {
+    filter: brightness(0) invert(1);
+}
+
+.contenedor {
+    position: relative;
+    text-align: center;
+    background-color: #28242c;
+    border: 5px #28242c;
+}
+
+.licencia {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+footer {
+    background-color: #28242c;
+}
